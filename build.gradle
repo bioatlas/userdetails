@@ -59,10 +59,10 @@ dependencies {
 
     // Grails plugin dependencies
 
-    runtime "org.grails.plugins:ala-bootstrap3:3.0.0-SNAPSHOT"
-    compile "org.grails.plugins:ala-ws-plugin:2.0-SNAPSHOT"
+    runtime "org.grails.plugins:ala-bootstrap3:3.0.6"
+    compile "org.grails.plugins:ala-ws-plugin:2.0"
     compile "org.grails.plugins:ala-auth:3.0.0"
-    compile "org.grails.plugins:ala-admin-plugin:2.0-SNAPSHOT"
+    compile "org.grails.plugins:ala-admin-plugin:2.0"
 
     compile 'org.grails.plugins:external-config:1.1.1'
     compile 'org.grails.plugins:http-builder-helper:1.0.2.ALA'
